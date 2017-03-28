@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string-array
+        name="top25_restaurants">
+        <item>AnnaLena Restaurant</item>
+        <item>Five Sails Restaurant</item>
+        <item>Blue Water Cafe</item>
+        <item>Salmon n\' Bannock Restaurant</item>
+        <item>LeCrocodile Restaurant</item>
+        <item>Trafalgar\'s Bistro</item>
+        <item>Absinthe Bistro</item>
+        <item>Cafe Medina</item>
+        <item>Fable</item>
+        <item>The Oakwood Canadian Bistro</item>
+        <item>Lupo Restaurant</item>
+        <item>Meat and Bread</item>
+        <item>Miku</item>
+        <item>Forage</item>
+        <item>CinCin Ristorante + Bar</item>
+        <item>Trattoria</item>
+        <item>Cactus Club Cafe</item>
+        <item>Joe Fortes Seafood and Chop House</item>
+        <item>Hawksworth Restaurant</item>
+        <item>Gotham Steakhouse and Cocktail Bar</item>
+        <item>L\'Abattoir Restaurant</item>
+        <item>Italian Kitchen</item>
+        <item>Cardero\'s Restaurant and Live Bait Marine</item>
+        <item>Bacchus Restaurant and Lounge</item>
+        <item>Teahouse in Stanley Park</item>
+    </string-array>
+    <string-array
+        name="rating_stars">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
